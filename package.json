@@ -1,6 +1,6 @@
 {
-  "name": "dbml2erd",
-  "version": "1.0.0",
+  "name": "dbml2puml",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "packageManager": "yarn@3.0.2",
@@ -18,5 +18,9 @@
     "nanoid": "^3.1.30",
     "typescript": "^4.4.4",
     "xmlbuilder2": "^3.0.2"
+  },
+  "dependencies": {
+    "@types/command-line-args": "^5.2.0",
+    "command-line-args": "^5.2.0"
   }
 }
